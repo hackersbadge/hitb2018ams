@@ -1,5 +1,4 @@
-Hacker's Badge for Hack In The Box 2018, Amsterdam
-
+# Hacker's Badge for Hack In The Box 2018, Amsterdam
 
 - [x] Hardware: WhiteA10n3
 - [x] Code: KLKS + xwings (partial)
@@ -14,5 +13,3 @@ Hacker's Badge for Hack In The Box 2018, Amsterdam
 
 ![GitHub Logo](/pic/IMG_20180411_180508.jpg)      
 ![GitHub Logo](/pic/IMG_20180410_163738.jpg)
-
-
