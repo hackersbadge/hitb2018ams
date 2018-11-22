@@ -13,6 +13,6 @@ Code: KLKS + xwings (partial)
 * 6 x RGB LED
 
 
-![GitHub Logo](hitb2018ams/pic/IMG_20180410_163738.jpg)
-Format: ![Alt Text](url)
+![GitHub Logo](/pic/IMG_20180410_163738.jpg)
+
 
